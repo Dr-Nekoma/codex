@@ -1,0 +1,40 @@
+* ruffman
+
+The main point of this project was to explore the Rust programming language. We developed a classic Huffman compression algorithm to use Rust in its low-level domain.
+
+* Lessons Learned
+
+- The low-level world can absorb high-level concepts
+  + Put some of the burden onto the compiler instead of the developer
+  + Not everything can be everything (types are our friends)
+  + Error handling is nicer with less ifs and elses
+  + Absorb what's good ([[https://youtu.be/to8ISIQjETk][FP is the new OOP by Michael Snoyman]])
+
+- A little too verbose
+  + The low-level abstractions make the language too intricate
+  + Sometimes less is more
+
+- Haskell-like approach for IO
+  + ~mut~ is a great feature
+  + If you want to mess with purity you need to communicate that to the compiler properly
+  + However, borrowing can be a pain (specially with simple stuff)
+
+- Typeclasses? Are those you?
+  + Big parallel between haskell typeclasses and traits
+  + More granular: partial ordering and total ordering
+
+- You can't compare floats
+  + Although really incovenient, it is correct by the nature of floating points
+
+- Hard time deciding when to use functional (like maps) and imperative (like for loops)
+  + Rust has both. When to use each one?
+  + Practice maybe be the key
+
+- Accessing tuples is really weird
+  + What is this ~tuple.0~?
+  + Why?
+  + So many unanswered questions
+
+- Powerful structs
+  + You can add ~derive~ to structs
+    
