@@ -63,6 +63,10 @@ focus on *typos* and maintaining the *uniformity* in the organization of the fil
 
 * How to Use
 
+Open any ~.org~ file using your instance of Emacs xD.
+
+** Nix/NixOS
+
 Just run:
 
 #+BEGIN_SRC bash
@@ -70,6 +74,9 @@ Just run:
   > emacs &
 #+END_SRC 
 
-Open any ~.org~ file using your instance of Emacs xD.
+** Guix
+
+*TODO*
+
 
 
