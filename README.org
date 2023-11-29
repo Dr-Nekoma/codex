@@ -32,7 +32,7 @@ positive of the material you want to share.
 
 ** File
 
-- You should always use an `.org` file.
+- You should always use an ~.org~ file.
 - The name of the file should be in camel case.
 - You can inspire yourself using this template.
 - Every file should point to *somewhere* where the reader can get the material.  
@@ -47,7 +47,7 @@ Create the file in the appropriate category.
 
 - Transform the file in question in a folder;
 - All files about that material should be in that folder;
-- Each version of each author should have the file with the author's name, e.g., `Lemos.org` and `Marinho.org`.
+- Each version of each author should have the file with the author's name, e.g., ~Lemos.org~ and ~Marinho.org~.
 
 *** What should I care about when writing about it?
 
@@ -70,6 +70,6 @@ Just run:
   > emacs &
 #+END_SRC 
 
-Open any `.org` file using your instance of Emacs xD.
+Open any ~.org~ file using your instance of Emacs xD.
 
 
