@@ -1,0 +1,9 @@
+#+TITLE: Template
+#+AUTHOR: Eduardo Lemos
+#+DATE: 29/11/2023
+
+* Why you should go for it
+
+* Why you should not got for it
+
+* Make personal take on it
