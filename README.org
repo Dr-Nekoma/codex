@@ -10,7 +10,7 @@ share, being a recommendation to read/watch something or a recommendation to not
 
 * General Rule
 
-For a specific material, make a PR, like this one, that makes a summary of the main points, negative and/or
+For a specific material, make a PR, like [[https://github.com/Dr-Nekoma/codex/pull/1][this one]], that makes a summary of the main points, negative and/or
 positive of the material you want to share.
 
 * Organization
@@ -34,7 +34,7 @@ positive of the material you want to share.
 
 - You should always use an ~.org~ file.
 - The name of the file should be in camel case.
-- You can inspire yourself using this template.
+- You can inspire yourself using [[https://github.com/Dr-Nekoma/codex/blob/main/template.org][this template]].  
 - Every file should point to *somewhere* where the reader can get the material.  
 
 ** Rules of Thumb
