@@ -1,0 +1,44 @@
+#+TITLE: h-vita
+#+AUTHOR: Eduardo Lemos
+#+DATE: 08/07/2022
+
+The idea of implementing the classical game of life in Haskell came from the willingness of Lemos to teach Nathan Haskell. After reading the problem, the language seemed to be a great fit as an intriguing problem for Lemos as well as a great
+example of Haskell's capabilities for Nathan.
+
+You can find the project [[https://github.com/Dr-Nekoma/h-vita][here]].
+
+* Lessons Learned
+
+- Aliases help
+  + By using aliases instead of pure primitive types, we could focus more on the domain of the problem
+
+- Idiomatic Functions
+  + As we said the desired behaviour in natural language (english) the code was following it nicely
+
+- Maybe saved the day
+  + By using the maybe type, we didn't have to care about the corner cases of the board
+  + Padding also became unnecessary
+
+- Visualizing how an unusual function can perfectly fit
+  + Lemos found a great use case for the ~sequence~ function (finally!)
+  + When judging the next state of a given cell, all conditions use the *same* cell state, simultaneously
+    * This synced behaviour made ~sequence~ the best choice
+    * That moment was awesome
+
+- Documentation is still important
+  + As functional programmers, we praise that types are our documentation
+  + However, sometimes it is easier to grasp meaning with natural language
+  + This happened with the Gloss library
+  + Types are documentation, but it is nice to have both ways
+
+- We can survive with types
+  + Because we didn't have documentation about the library for visuals, we started reading examples and type signatures via LSP
+  + After a while, we were able to decode how to use the functions of interest to have simple visuals
+
+- Visuals can be short
+  + After the decoding process, visuals only took 3 functions
+  + What do you gonna do about it, OpenGL?
+
+- Visuals Arithmetics
+  + The way Gloss handles drawing pixels is not as intuitive as it should be
+  + It took Lemos a long time to keep up with Nathan in this regard
