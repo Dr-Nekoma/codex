@@ -1,0 +1,75 @@
+#+TITLE: Codex
+
+#+BEGIN_QUOTE
+I want to know everything in this world - Ishigami, Senku - Dr.Stone
+#+END_QUOTE
+
+We shall unify our lessons learned throughout the non-fictional materials we gathered.
+Codex is a wikipedia of all the materials members of Dr.Nekoma felt they should
+share, being a recommendation to read/watch something or a recommendation to not even bother.
+
+* General Rule
+
+For a specific material, make a PR, like this one, that makes a summary of the main points, negative and/or
+positive of the material you want to share.
+
+* Organization
+
+** Accepted Materials
+
+- Talks (in and out of youtube);
+- Articles;
+- Blog Posts;
+- Books;
+- Projects;
+
+** Accepted Themes
+
+- Technology;
+- Philosophy;
+- Economy;
+- Introspective.
+
+** File
+
+- You should always use an `.org` file.
+- The name of the file should be in camel case.
+- You can inspire yourself using this template.
+- Every file should point to *somewhere* where the reader can get the material.  
+
+** Rules of Thumb
+
+*** No one made a file about this material
+
+Create the file in the appropriate category.
+
+*** Someone made a file about it, but I want my own take on it
+
+- Transform the file in question in a folder;
+- All files about that material should be in that folder;
+- Each version of each author should have the file with the author's name, e.g., `Lemos.org` and `Marinho.org`.
+
+*** What should I care about when writing about it?
+
+- How did the material change the way you think?
+- What is the most valuable lesson you got from it?
+- Why do you think people should absorb that as well?
+- What makes it memorable for you after the experience?      
+
+** Pull Requests
+
+Reviewers shall not change the *styling* of a proposed file to join the archive. Reviewers should mainly
+focus on *typos* and maintaining the *uniformity* in the organization of the files.
+
+* How to Use
+
+Just run:
+
+#+BEGIN_SRC bash
+  > nix develop
+  > emacs &
+#+END_SRC 
+
+Open any `.org` file using your instance of Emacs xD.
+
+
