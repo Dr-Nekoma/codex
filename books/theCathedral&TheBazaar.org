@@ -1,0 +1,30 @@
+#+TITLE: The Cathedral & The Bazaar
+#+AUTHOR: Eduardo Lemos
+#+DATE: 29/11/2023
+
+You can find it [[https://www.amazon.com.br/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088/ref=sr_1_1?crid=2ROHQVANDHWYH&keywords=cathedral+and+the+bazaar&qid=1701277144&sprefix=cathedra%2Caps%2C265&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9][here]].
+
+* Why you should go for it
+
+- It will illuminate your mind about FOSS contributions within the following topics:
+  * Open Source is more than just doing software for free.
+  * Reputation plays a big role in this environment.
+
+- Descentralized human interactions are very powerful for a organized chaos that makes progress.
+
+- Eric describes personal experience in doing FOSS, which can be a starting point for a lot of people.  
+  
+* Why you should not got for it
+
+- Some people may not enjoy the last part where Eric became a sort of symbol of FOSS within a specific company.
+
+* Make personal take on it
+
+- Highly recommended for anybody in the IT space.
+
+- Very insightful about Hayek's economic principle on how descentralization of human progress is unpredictable and helpful most
+  of the times.
+
+- Non liberals/libertarians may not enjoy it, because there is a high bias philosophically behind Eric's words.
+
+- The tech space should be talking more about such book.  
