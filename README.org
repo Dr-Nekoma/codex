@@ -21,6 +21,7 @@ positive of the material you want to share.
 - Articles;
 - Blog Posts;
 - Books;
+- Courses;  
 - Projects;
 
 ** Accepted Themes
