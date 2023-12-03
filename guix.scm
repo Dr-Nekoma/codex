@@ -10,13 +10,9 @@
   (version "1.0-git")
   (source #f)
   (build-system gnu-build-system)
-  (native-inputs
-    (list
-       emacs))
   (inputs
     (list
-       ;; not sure if this is necessary
-       emacs))
+      emacs))
   (synopsis "Dr.Nekoma's wikipedia")
   (home-page "https://github.com/Dr-Nekoma/codex")
   (license license:expat)
