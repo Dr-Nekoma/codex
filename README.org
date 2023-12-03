@@ -21,7 +21,7 @@ positive of the material you want to share.
 - Articles;
 - Blog Posts;
 - Books;
-- Courses;  
+- Courses;
 - Projects;
 
 ** Accepted Themes
@@ -35,8 +35,8 @@ positive of the material you want to share.
 
 - You should always use an ~.org~ file.
 - The name of the file should be in camel case.
-- You can inspire yourself using [[https://github.com/Dr-Nekoma/codex/blob/main/template.org][this template]].  
-- Every file should point to *somewhere* where the reader can get the material.  
+- You can inspire yourself using [[https://github.com/Dr-Nekoma/codex/blob/main/template.org][this template]].
+- Every file should point to *somewhere* where the reader can get the material.
 
 ** Rules of Thumb
 
@@ -55,7 +55,7 @@ Create the file in the appropriate category.
 - How did the material change the way you think?
 - What is the most valuable lesson you got from it?
 - Why do you think people should absorb that as well?
-- What makes it memorable for you after the experience?      
+- What makes it memorable for you after the experience?
 
 ** Pull Requests
 
@@ -73,9 +73,15 @@ Just run:
 #+BEGIN_SRC bash
   > nix develop
   > emacs &
-#+END_SRC 
+#+END_SRC
 
 ** Guix
+
+Just run:
+#+BEGIN_SRC bash
+  > guix shell
+  > emacs &
+#+END_SRC
 
 *TODO*
 
