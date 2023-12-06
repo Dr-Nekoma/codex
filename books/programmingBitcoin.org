@@ -1,0 +1,30 @@
+#+TITLE: Programming Bitcoin
+#+AUTHOR: Edil Medeiros
+#+DATE: 06/12/2023
+
+[[https://www.amazon.com/Programming-Bitcoin-Learn-Program-Scratch/dp/1492031496][Programming Bitcoin]] is a deep dive into how bitcoin works by Jimmy Song, a bitcoin contributor and promoter.
+
+* Why you should go for it
+
+- Probably the best book for those that want to learn the internals of bitcoin, better than Mastering Bitcoin by Andreas Antonopoulos.
+  
+- It explains technical details of virtually every component behind the bitcoin technology: elliptic curve cryptography, script (the
+  smart contract language embedded in bitcoin), the many transactions types and their encodings, blocks and mining, networking, and
+  segwit.
+
+- There's "theory" and there are lots of programming exercises that lead the reader to build a bitcoin library in Python.
+
+- There's a [[https://github.com/jimmysong/programmingbitcoin][github repo]] with jupyter notebooks and some code to supoort the exercises in the book.
+
+* Why you should not got for it
+
+- It does not show or point to the real C++ code, so there's still a huge knowledge gap between the book and starting to contribute to
+  the real world project.
+
+- The explanation of the networking aspects are weak.
+
+- Python... 
+
+* Make personal take on it
+
+- If you want a programmer's introduction to bitcoin, start here.
