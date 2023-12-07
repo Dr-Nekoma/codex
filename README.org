@@ -82,8 +82,3 @@ Just run:
   > guix shell
   > emacs &
 #+END_SRC
-
-*TODO*
-
-
-
