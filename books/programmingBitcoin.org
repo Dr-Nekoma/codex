@@ -14,7 +14,7 @@
 
 - There's "theory" and there are lots of programming exercises that lead the reader to build a bitcoin library in Python.
 
-- There's a [[https://github.com/jimmysong/programmingbitcoin][github repo]] with jupyter notebooks and some code to supoort the exercises in the book.
+- There's a [[https://github.com/jimmysong/programmingbitcoin][github repo]] with jupyter notebooks and some code to support the exercises in the book.
 
 * Why you should not got for it
 
