@@ -1,0 +1,24 @@
+#+TITLE: Writing to Learn
+#+AUTHOR: Edil Medeiros
+#+DATE: 06/12/2023
+
+[[https://www.amazon.com/Writing-Learn-William-Zinsser/dp/0062720406][Writing to Learn]] is a book by the respected William Zinsser who is author of [[https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548/ref=pd_bxgy_img_d_sccl_1/143-4902127-1947531?pd_rd_w=k9SgC&content-id=amzn1.sym.839d7715-b862-4989-8f65-c6f9502d15f9&pf_rd_p=839d7715-b862-4989-8f65-c6f9502d15f9&pf_rd_r=GCGC6AVRPT1KSA3F7GBQ&pd_rd_wg=VN4Wk&pd_rd_r=cfbdbb79-9796-4683-add1-47143b5bb54b&pd_rd_i=0060891548&psc=1][On Writing Well]], a classical manual for writing in
+English. This book is an account of "writing across the curriculum", a pedagogical concept based on the idea that writing is a tool for
+thinking and thinking is the ground for learning. The book tries to convince its point by showing many examples of good writing in many
+areas: arts, music, natural world, mathematics, chemistry.
+
+
+* Why you should go for it
+
+- The best material on the book are the many examples of good writing in arts, music, the natural world (biology), mathematics,
+  physics, and chemistry. The author compiles excerpts of good scientific prose by authors like Albert Einstein and Charles Darwin.
+  Those serve as reference for our own technical writing.
+
+* Why you should not got for it
+
+- I was expecting a manual of how to use writing as a learning tool, but the book is actually an account of a particular experiment the
+  author did on a small school in the US. Don't expect to learn new techniques.
+
+* Make personal take on it
+
+- Don't waste time with this, but definitely go for On Writing Well.
