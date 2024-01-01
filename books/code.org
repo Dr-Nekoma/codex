@@ -1,0 +1,38 @@
+#+TITLE: Code
+#+AUTHOR: Charles Petzold
+#+DATE: 01/01/2024
+
+[[https://www.amazon.com.br/Code-Language-Computer-Developer-Practices-ebook/dp/B00JDMPOK2/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=AEDHNVZTF62T&keywords=code+petzold&qid=1704150030&sprefix=code+petzol%2Caps%2C257&sr=8-2][Code]] is a summary of important milestones of human wisdom in regards to computers.
+
+* Why you should go for it
+
+- If your background is more focused on the software side of Computer Science (CS) and you wonder
+  what happens in the hardware side, this is a good pick.
+
+- Most things are well-placed in the book and Petzold made a story in which
+  each next step makes natural sense to be the next.
+
+- The images are great and help you understand visually what is happening.
+
+- CS enthusiasts can use it as literature to solidy their understanding of the foundations on how
+  the computer actually works alongside some fun facts that Petzold provided.
+
+- The book is dense with details.  
+
+* Why you should not got for it
+
+- I don't think a complete newcomer to Computer Science should use this book as a starting point.
+  Although very well explained, the amount of details per page ratio is high enough to be
+  overwhelming to people without any prior knowledge about the subject.
+
+- The book is dense with details.  
+
+* Make personal take on it
+
+- This book portrays a great example of the "It's a slow but steady effort" mentality, laser-focused
+  on computers. Petzold does a great job showing that all the pieces required for today's magic took an incredible amount of
+  diverse ideas refined over decades, passing around the hands of very smart people.
+
+- The style of writing is very concise and direct to the point, something that I think helps focusing on what really matters, i.e.,
+  the content (especially when he is talking about hardware).
+  
