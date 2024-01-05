@@ -14,7 +14,7 @@
 
 - The images are great and help you understand visually what is happening.
 
-- CS enthusiasts can use it as literature to solidy their understanding of the foundations on how
+- CS enthusiasts can use it as literature to solidify their understanding of the foundations on how
   the computer actually works alongside some fun facts that Petzold provided.
 
 - The book is dense with details.  
