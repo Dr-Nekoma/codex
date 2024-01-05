@@ -19,7 +19,7 @@
 
 - The book is dense with details.  
 
-* Why you should not got for it
+* Why you should not go for it
 
 - I don't think a complete newcomer to Computer Science should use this book as a starting point.
   Although very well explained, the amount of details per page ratio is high enough to be

@@ -14,7 +14,7 @@ areas: arts, music, natural world, mathematics, chemistry.
   physics, and chemistry. The author compiles excerpts of good scientific prose by authors like Albert Einstein and Charles Darwin.
   Those serve as reference for our own technical writing.
 
-* Why you should not got for it
+* Why you should not go for it
 
 - I was expecting a manual of how to use writing as a learning tool, but the book is actually an account of a particular experiment the
   author did on a small school in the US. Don't expect to learn new techniques.
