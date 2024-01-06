@@ -16,7 +16,7 @@
 
 - There's a [[https://github.com/jimmysong/programmingbitcoin][github repo]] with jupyter notebooks and some code to support the exercises in the book.
 
-* Why you should not got for it
+* Why you should not go for it
 
 - It does not show or point to the real C++ code, so there's still a huge knowledge gap between the book and starting to contribute to
   the real world project.
