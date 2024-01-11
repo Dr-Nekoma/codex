@@ -1,0 +1,29 @@
+#+TITLE: Minds, Brains and Science
+#+AUTHOR: John Searle
+#+DATE: 1984
+
+* Why you should go for it
+This is the book version of a series of 6 lectures [[https://en.wikipedia.org/wiki/John_Searle][John Searle]] recorded for BBC in 1984.
+The recordings are available at [[https://youtube.com/playlist?list=PLez3PPtnpncQg5RduOz8gR3mGGu-GwQHY&si=JoJhkjjXVYoYkywk][YouTube]] in case you prefer to hear them.
+
+In Searle's words: "The overriding theme of the series concerns the relationship of human beings to the rest of the universe.
+Specifically, it concerns the question of how we reconcile a certain traditional mentalistic conception that we have of ourselves with
+an apparently inconsistent conception of the universe as a purely physical system."
+
+In this pursuit, Searle starts with the mind-body problem: "We think of ourselves as consicous, free, mindfull, rational agents in a
+world that science tells us consists entirely of mindless, meaningless physical particles." He tries to reconcile these two notions by analysing the cause and effect relationship between the brain and the mind.
+
+The second lecture analyses if computers can think and is an argument against the notion that we are in the verge of making a conscious
+artifical intelligence system. The lecture is from 1984, but I think the main argument still holds: the human mind deals with syntax
+and semantics while computers (and digital machines in general) can deal only with semantics. He doesn't explain, tough, how this
+extended capacity comes from (for an account on that, look for Gödel, Escher, Bach from Douglas Hofstadter).
+
+* Why you should not go for it
+
+Lectures 1 and 2 are the meat from this book. The rest of the lectures analyse: the cognitive sciences, the structure of (human)
+action, the prospects for social sciences, and the freedom of the will. I think these can be skipped.
+
+
+* Make personal take on it
+
+Read (or hear) lectures 1 and 2 if you are in the artificial intelligence hype for an argument of caution.
