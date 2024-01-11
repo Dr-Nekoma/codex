@@ -1,6 +1,6 @@
 #+TITLE: Minds, Brains and Science
 #+AUTHOR: John Searle
-#+DATE: 1984
+#+DATE: 31/12/2023
 
 * Why you should go for it
 This is the book version of a series of 6 lectures [[https://en.wikipedia.org/wiki/John_Searle][John Searle]] recorded for BBC in 1984.
