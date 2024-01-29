@@ -1,0 +1,28 @@
+#+TITLE: Dynamic Languages are Static Languages
+#+AUTHOR: Eduardo Lemos
+#+DATE: 29/01/2023
+
+[[https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/][Dynamic Languages are Static Languages]] is a blog post that follows the expectation you usually have with Harper: it has hot takes.
+This time around he is arguing that Dynamic typed languages are actually a subset of Static typed languages and that there is a conceptual
+misconception that is brought up by dynamically-typed-language fans.
+
+* Why you should go for it
+
+- If you are interested in a different perspective of what it means to say "dynamically typed", you should definitely read this.
+
+- The text is concise with its examples.
+
+* Why you should not go for it
+
+- Harper is pretty crisp in his judgement, which translates like you are reading something from someone that perceives itself as a very high
+  authority. This makes the reading a little bitter.
+
+- You gotta pay extra attention to jump some judgements that Harper throws throughout the text, especially if you are a fan of dynamically typed languages.
+
+* Make personal take on it
+
+- I believe Harper knew from the start that explaining things like this would cause controversy.
+
+- It is an interesting perspective about this battle of trade-offs.
+
+- The reading get more insightful the harder you read it using impartial lenses.  
