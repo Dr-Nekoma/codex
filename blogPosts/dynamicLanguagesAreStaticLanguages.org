@@ -25,4 +25,4 @@ misconception that is brought up by dynamically-typed-language fans.
 
 - It is an interesting perspective about this battle of trade-offs.
 
-- The reading get more insightful the harder you read it using impartial lenses.  
+- The reading gets more insightful the harder you read it using impartial lenses.  
