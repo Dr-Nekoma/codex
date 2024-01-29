@@ -1,6 +1,6 @@
 #+TITLE: Dynamic Languages are Static Languages
 #+AUTHOR: Eduardo Lemos
-#+DATE: 29/01/2023
+#+DATE: 28/01/2024
 
 [[https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/][Dynamic Languages are Static Languages]] is a blog post that follows the expectation you usually have with Harper: it has hot takes.
 This time around he is arguing that Dynamic typed languages are actually a subset of Static typed languages and that there is a conceptual
