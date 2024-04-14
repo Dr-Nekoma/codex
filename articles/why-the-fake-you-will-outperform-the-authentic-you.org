@@ -4,7 +4,7 @@
 
 [[https://talentstrategygroup.com/wp-content/uploads/2024/03/Why-the-Fake-You-will-Outperform-the-Authentic-You.pdf][Why the Fake You will Outperform the Authentic You]] is an article that explains an unpopular take about authenticity, e.g., faking
 your own personality can lead to better performance.
-[[https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/][
+
 * Why you should go for it
 
 - There is a need in the industry to debate about uncommon steps to reach high levels of performance. This article is a start to that.
