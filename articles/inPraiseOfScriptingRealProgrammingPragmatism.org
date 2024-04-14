@@ -12,7 +12,11 @@ in the raise, but also are the true pragmatic programming languages.
 - Many questions raised in the article matter outside of this discussion.
 
 - It shows that the market cannot ignore tendencies that programmers tend to have; that being good or bad.
-  
+
+- The reasoning about programming becoming a commodity checks out why scripting languages were/are popular.
+  * The immediate cost of learning something ASAP is lower with fewer constraints (although you may pay that
+    later on the line).
+
 * Why you should not go for it
 
 - The author has a bias and it shows throughout his writing.
