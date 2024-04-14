@@ -1,0 +1,27 @@
+#+TITLE: Why the Fake You will Outperform the Authentic You
+#+AUTHOR: Eduardo Lemos
+#+DATE: 14/04/2024
+
+[[https://talentstrategygroup.com/wp-content/uploads/2024/03/Why-the-Fake-You-will-Outperform-the-Authentic-You.pdf][Why the Fake You will Outperform the Authentic You]] is an article that explains an unpopular take about authenticity, e.g., faking
+your own personality can lead to better performance.
+[[https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/][
+* Why you should go for it
+
+- There is a need in the industry to debate about uncommon steps to reach high levels of performance. This article is a start to that.
+
+- Marc gives you steps/tips to attempt this strategy, which facilitates testing it.  
+
+- The article proposes valid justifications to have ego. Given the current spread of Impostor Syndrome, it feels refreshing.
+  
+* Why you should not go for it
+
+- Marc does not touch the ethical implications of his suggestion.
+  * Sure faking it, but how far faking it is too far? What if faking it causes harm? What are we willing to trade to achieve god-like
+    levels of performance?
+
+* Make personal take on it
+
+- As an introvert myself, I do recognize and validate that faking an extrovert personality can lead to better performance, so the reading
+  had a confirmation bias.
+
+- I still wonder how far we should go with this approach, given that this can go to very dubious and utilitarian ends.  
