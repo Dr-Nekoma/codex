@@ -1,0 +1,41 @@
+#+TITLE: In Praise of Scripting: Real Programming Pragmatism
+#+AUTHOR: Eduardo Lemos
+#+DATE: 14/04/2024
+
+[[http://www.newlisp.org/code/InPraiseOfScripting.pdf][In Praise of Scripting: Real Programming Pragmatism]] is an article that preaches scripting languages as the ones that are not only
+in the raise, but also are the true pragmatic programming languages.
+
+* Why you should go for it
+
+- It shows a fairly accurate list of points scripting languages offer for new comers to programming.
+
+- Many questions raised in the article matter outside of this discussion.
+
+- It shows that the market cannot ignore tendencies that programmers tend to have; that being good or bad.
+  
+* Why you should not go for it
+
+- The author has a bias and it shows throughout his writing.
+
+- It misses some points (maybe even more important ones) on what scripting languages provide.
+  * Interactive development anyone?
+
+- Although it touches important points on why more "complicated" languages have their downsides, it missses better
+  questions about this topic:
+  * Why are the "people's restrictions" there in the first place? What are the purposes of that?
+  * Can people describe what the extra features in C and Java aim to solve? Or are they moving to scripting languages
+    due to their lack of understanding about that?
+
+- The author misses a great point of: why not trying to combine the best features of both worlds?
+  * Why not pursue fast development pace that scripting languages provide /with/ the correctness and robustness of system's
+    programming languages?
+
+- It shows that the market cannot ignore tendencies that programmers tend to have; that being good or bad.
+
+* Make personal take on it
+
+- Dangerous article that requires reading with attention.
+
+- Another example on how speed can overcome correctness in the race of software development; for better or for worse.
+
+- This topic has more sauce than the author explores.  
